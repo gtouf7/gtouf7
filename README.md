@@ -13,6 +13,21 @@
 
 #### Follow me on my socials!
 
+<figure>
+  <div id="badges">
+    <a href="https//www.instagram.com/gtouf7">
+      <img src="insta.png">
+    </a>
+    <div id="badges">
+    <a href="https//www.linkedin/gtouf7">
+      <img src="linkedin.png">
+    </a>
+      <div id="badges">
+    <a href="https//www.facebook.com/giorgostoufexis30">
+      <img src="fb.png">
+    </a>
+</figure>
+
 
 
 
