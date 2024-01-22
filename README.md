@@ -8,8 +8,11 @@
 
 ### Hobbies:
 <figure>
-  <div> <img src="computer.png" width=30 height=30> <img src="controller.png" width=30 height=30> <img src="ball.png" width=30 height=30> </div>
+  <div> <img src="computer.png" width=40 height=40> <img src="controller.png" width=40 height=40> <img src="ball.png" width=40 height=40> </div>
 </figure>
+
+### Follow me on socials!
+
 
 
 <!--
