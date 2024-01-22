@@ -1,6 +1,7 @@
-### Hello World 👋
+# Aspiring Web Developer
 
-## Aspiring Web Developer
+## I am a marketing graduate with a passion for coding!
+
 
 <!--![computer logo](computer.png)-->
 <figure>
