@@ -4,7 +4,7 @@
 
 <!--![computer logo](computer.png)-->
 <figure>
-  <img src="computer.png" width=30 height=30>
+  <img src="computer.png" width=30 height=30> <img
 </figure>
 
 
