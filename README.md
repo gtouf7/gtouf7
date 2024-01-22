@@ -15,13 +15,13 @@
 
 <figure>
   <div id="badges">
-    <a href="https//www.instagram.com/gtouf7">
+    <a href="https://www.instagram.com/gtouf7">
       <img src="insta.png" width=30 height=30>
     </a>
-    <a href="https//www.linkedin/gtouf7">
+    <a href="https://www.linkedin/gtouf7">
       <img src="linkedin.png" width=30 height=30>
     </a>
-    <a href="https//www.facebook.com/giorgostoufexis30">
+    <a href="https://www.facebook.com/giorgostoufexis30">
       <img src="fb.png" width=30 height=30>
     </a>
   </div>
