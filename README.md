@@ -2,7 +2,11 @@
 
 ##Aspiring Web Developer
 
-![computer logo](computer.png)
+<!--![computer logo](computer.png)-->
+<figure>
+  <img src="computer.png" width=20 height=20>
+</figure>
+
 
 <!--
 **gtouf7/gtouf7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
