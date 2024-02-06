@@ -7,11 +7,12 @@
 </figure>
 
 #### Hobbies:
+### ...when not coding
 <figure>
   <div> <img src="computer.png" width=40 height=40> <img src="controller.png" width=40 height=40> <img src="ball.png" width=40 height=40> </div>
 </figure>
 
-#### Follow me on my socials!
+#### Follow my socials!
 
 <figure>
   <div id="badges">
