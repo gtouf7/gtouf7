@@ -1,18 +1,17 @@
 # Aspiring Web Developer
 
 ## I am a marketing graduate with a passion for coding!
-#### Current Languages:
+### Current Languages:
 <figure>
   <div> <img src="c.png" width=40 height=40> <img src="html.png" width=40 height=40> <img src="js.png" width=40 height=40> </div>
 </figure>
 
-#### Hobbies:
-### ...when not coding
+### Hobbies:
 <figure>
   <div> <img src="computer.png" width=40 height=40> <img src="controller.png" width=40 height=40> <img src="ball.png" width=40 height=40> </div>
 </figure>
 
-#### Follow my socials!
+### Follow my socials!
 
 <figure>
   <div id="badges">
