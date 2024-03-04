@@ -1,8 +1,8 @@
 # Aspiring Web Developer
 
 ## I am a marketing graduate with a passion for coding!
-### Currently coding with the following:
-#### C, C#, HTML, CSS, Javascript, SQL!
+### Currently coding with the following: C, C#, HTML, CSS, Javascript, SQL!
+
 
 ### Hobbies:
 <figure>
