@@ -1,10 +1,5 @@
-# Aspiring Web Developer
+# Full-stack Developer
 
-## I am a marketing graduate with a passion for coding!
-### Currently coding with: JavaScript, C#, C, HTML, React and Node!
-
-
-### Hobbies:
 <figure>
   <div> <img src="computer.png" width=40 height=40> <img src="controller.png" width=40 height=40> <img src="ball.png" width=40 height=40> </div>
 </figure>
